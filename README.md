@@ -15,7 +15,6 @@ python -m http.server 8000
 
 Notes
 
-- No frameworks used. All code is in `index.html`.
 - Team data is read from `team_data.csv`. If fetch is not possible (file://), the page will use a built-in fallback.
 
 Files added
